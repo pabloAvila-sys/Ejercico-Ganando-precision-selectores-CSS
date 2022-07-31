@@ -1,0 +1,9 @@
+/*Los primeros elementos de las dos listas se muestran de color rojo*/
+#elemento-1 {
+    color: red;
+}
+
+/*Primer elemento de la primera lista tiene un tamaño de letra 2rem*/
+ul li#elemento-1{
+font-size: 2rem;
+}
